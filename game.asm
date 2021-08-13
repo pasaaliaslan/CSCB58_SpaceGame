@@ -1,9 +1,4 @@
 ######################################################################
-# CSCB58 Summer 2021 Assembly Final Project
-# University of Toronto, Scarborough
-#
-# Student: Pasa Aslan, 1007020849, aslanpas
-#
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
 # - Unit height in pixels: 8
